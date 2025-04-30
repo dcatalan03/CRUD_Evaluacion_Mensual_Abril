@@ -4,8 +4,7 @@ WORKDIR /src
 
 COPY . .  # Copia TODO lo del repo
 
-# Verifica que este path exista DENTRO del contenedor
-RUN ls -la /src/CRUD_Evaluacion_Mensual_Abril
+
 
 # Restaurar paquetes desde la ruta real
 RUN dotnet restore "./CRUD_Evaluacion_Mensual_Abril/CRUD_Evaluacion_Mensual_Abril/CRUD_Evaluacion_Mensual_Abril.csproj"
