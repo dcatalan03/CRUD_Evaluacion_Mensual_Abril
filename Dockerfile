@@ -1,25 +1,23 @@
-# Etapa 1: Build
-FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
-WORKDIR /src
+# Usa la imagen oficial de .NET 8 SDK para compilar
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 
-# Copiar el archivo .csproj y restaurar dependencias
-COPY CRUD_Evaluacion_Mensual_Abril/CRUD_Evaluacion_Mensual_Abril/*.csproj ./ 
-RUN dotnet restore ./CRUD_Evaluacion_Mensual_Abril.csproj
-
-# Copiar el resto del proyecto y compilar
-COPY CRUD_Evaluacion_Mensual_Abril/CRUD_Evaluacion_Mensual_Abril/ ./
-RUN dotnet publish -c Release -o /app/publish
-
-# Etapa 2: Runtime
-FROM mcr.microsoft.com/dotnet/aspnet:7.0
 WORKDIR /app
 
-# Copiar los archivos publicados desde la etapa anterior
-COPY --from=build /app/publish .
+# Copia todo el código
+COPY . ./
 
-# Configurar el puerto que Railway espera
-ENV ASPNETCORE_URLS=http://+:8080
-EXPOSE 8080
+# Restaura dependencias
+RUN dotnet restore "./CRUD_Evaluacion_Mensual_Abril.csproj"
 
-# Ejecutar la aplicación
+# Publica en modo Release
+RUN dotnet publish "./CRUD_Evaluacion_Mensual_Abril.csproj" -c Release -o /out
+
+# Imagen de runtime
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+
+WORKDIR /app
+
+COPY --from=build /out ./
+
 ENTRYPOINT ["dotnet", "CRUD_Evaluacion_Mensual_Abril.dll"]
+
