@@ -1,23 +1,26 @@
-# Usa la imagen oficial de .NET 8 SDK para compilar
+# Etapa de build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 
-WORKDIR /app
+WORKDIR /src
 
-# Copia todo el código
-COPY . ./
+# Copiamos todos los archivos del repositorio
+COPY . .
 
-# Restaura dependencias
-RUN dotnet restore "./CRUD_Evaluacion_Mensual_Abril.csproj"
+# Restaurar paquetes (ajustado a la ruta real del .csproj)
+RUN dotnet restore "CRUD_Evaluacion_Mensual_Abril/CRUD_Evaluacion_Mensual_Abril.csproj"
 
-# Publica en modo Release
-RUN dotnet publish "./CRUD_Evaluacion_Mensual_Abril.csproj" -c Release -o /out
+# Publicar en modo Release
+RUN dotnet publish "CRUD_Evaluacion_Mensual_Abril/CRUD_Evaluacion_Mensual_Abril.csproj" -c Release -o /app/publish
 
-# Imagen de runtime
+# Etapa de runtime
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
 
 WORKDIR /app
 
-COPY --from=build /out ./
+# Copiamos lo publicado desde la etapa anterior
+COPY --from=build /app/publish .
 
+# Comando para ejecutar la app
 ENTRYPOINT ["dotnet", "CRUD_Evaluacion_Mensual_Abril.dll"]
+
 
