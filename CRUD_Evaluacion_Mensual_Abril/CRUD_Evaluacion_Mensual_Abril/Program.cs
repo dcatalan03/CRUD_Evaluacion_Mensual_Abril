@@ -3,6 +3,7 @@ using CRUD_Evaluacion_Mensual_Abril.Service;
 using CRUD_Evaluacion_Mensual_Abril.Services;
 
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Agregar servicios al contenedor
@@ -27,6 +28,9 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+builder.WebHost.UseUrls($"http://*:{port}");
+
 var app = builder.Build();
 
 // Configurar la canalización de solicitudes HTTP
@@ -41,7 +45,6 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
 app.UseSession();  // Habilitar el uso de sesiones
-app.UseSession();
 app.UseMiddleware<SesionActivaMiddleware>();
 // Configurar rutas
 app.UseExceptionHandler("/Home/Error"); // para errores 500
@@ -51,9 +54,6 @@ app.UseStatusCodePagesWithReExecute("/Home/Error"); // para errores 404 y simila
 app.MapControllerRoute(
     name: "login",
     pattern: "{controller=Login}/{action=Login}/{id?}");
-
-var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
-app.Urls.Add($"http://0.0.0.0:{port}");
 
 
 app.Run(); 
