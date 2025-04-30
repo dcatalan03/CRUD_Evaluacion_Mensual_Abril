@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRUD_Evaluacion_Mensual_Abril")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fa3a954238321a7c91402442827c22f49795f32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+705b6808323a6abcbaa169d7784e0f949a79dadd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD_Evaluacion_Mensual_Abril")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD_Evaluacion_Mensual_Abril")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

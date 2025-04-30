@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Kyde0Qiww0=",
+  "dgSpecHash": "NDcTp7+BbX0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego\\Documents\\CRUDREPOEVALUACION MENSUAL\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj",
+  "projectFilePath": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

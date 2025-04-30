@@ -66,11 +66,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6adgmru6p6</Fingerprint>
-      <Integrity>wtYmOc2U+MiPqOWMjY4Htj5GfEIgAvudMuhPRKlq3Uo=</Integrity>
+      <Fingerprint>zoak0z67ox</Fingerprint>
+      <Integrity>I/+cbwp4jfA7On+kk0D7odZQ6yJEtXrz5wW9Xuik+Dk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\Configuracion.json'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CRUD_Evaluacion_Mensual_Abril</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CRUD_Evaluacion_Mensual_Abril</BasePath>
+      <RelativePath>data/Configuracion.json</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ubghgs369h</Fingerprint>
+      <Integrity>6hzgybaBN6gDCvRdYrhiHw8ZfgGllfinqVXL7wbYKmY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\data\Configuracion.json'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))">
       <SourceType>Package</SourceType>

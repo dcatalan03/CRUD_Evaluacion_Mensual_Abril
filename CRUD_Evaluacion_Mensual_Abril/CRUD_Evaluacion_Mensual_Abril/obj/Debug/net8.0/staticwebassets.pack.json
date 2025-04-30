@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\data\\Configuracion.json",
+      "PackagePath": "staticwebassets\\data\\Configuracion.json"
+    },
+    {
       "Id": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

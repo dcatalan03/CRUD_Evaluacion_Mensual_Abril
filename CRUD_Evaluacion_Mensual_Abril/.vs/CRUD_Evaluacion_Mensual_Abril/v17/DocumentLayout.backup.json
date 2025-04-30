@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|c:\\users\\diego\\documents\\repodojo\\dojonet\\diego c\\crud_evaluacion_mensual_abril\\crud_evaluacion_mensual_abril\\controllers\\productosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|solutionrelative:crud_evaluacion_mensual_abril\\controllers\\productosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|c:\\users\\diego\\documents\\repodojo\\dojonet\\diego c\\crud_evaluacion_mensual_abril\\crud_evaluacion_mensual_abril\\views\\productosapi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|solutionrelative:crud_evaluacion_mensual_abril\\views\\productosapi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|c:\\users\\diego\\documents\\repodojo\\dojonet\\diego c\\crud_evaluacion_mensual_abril\\crud_evaluacion_mensual_abril\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|solutionrelative:crud_evaluacion_mensual_abril\\controllers\\calculadoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|c:\\users\\diego\\documents\\repodojo\\dojonet\\diego c\\crud_evaluacion_mensual_abril\\crud_evaluacion_mensual_abril\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|solutionrelative:crud_evaluacion_mensual_abril\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|c:\\users\\diego\\documents\\repodojo\\dojonet\\diego c\\crud_evaluacion_mensual_abril\\crud_evaluacion_mensual_abril\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|solutionrelative:crud_evaluacion_mensual_abril\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|c:\\users\\diego\\documents\\repodojo\\dojonet\\diego c\\crud_evaluacion_mensual_abril\\crud_evaluacion_mensual_abril\\wwwroot\\data\\configuracion.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|solutionrelative:crud_evaluacion_mensual_abril\\wwwroot\\data\\configuracion.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|c:\\users\\diego\\documents\\repodojo\\dojonet\\diego c\\crud_evaluacion_mensual_abril\\crud_evaluacion_mensual_abril\\models\\configuracionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|solutionrelative:crud_evaluacion_mensual_abril\\models\\configuracionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|c:\\users\\diego\\documents\\repodojo\\dojonet\\diego c\\crud_evaluacion_mensual_abril\\crud_evaluacion_mensual_abril\\service\\configuracionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|solutionrelative:crud_evaluacion_mensual_abril\\service\\configuracionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|c:\\users\\diego\\documents\\repodojo\\dojonet\\diego c\\crud_evaluacion_mensual_abril\\crud_evaluacion_mensual_abril\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|solutionrelative:crud_evaluacion_mensual_abril\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|c:\\users\\diego\\documents\\repodojo\\dojonet\\diego c\\crud_evaluacion_mensual_abril\\crud_evaluacion_mensual_abril\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33C04E61-F71F-4B72-BBDC-8A792B48DB85}|CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril.csproj|solutionrelative:crud_evaluacion_mensual_abril\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,53 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Views\\ProductosApi\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\Views\\ProductosApi\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Views\\ProductosApi\\Edit.cshtml",
-              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\Views\\ProductosApi\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T01:03:27.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T00:28:05.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalculadoraController.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Controllers\\CalculadoraController.cs",
-              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\Controllers\\CalculadoraController.cs",
-              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Controllers\\CalculadoraController.cs",
-              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\Controllers\\CalculadoraController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAwJkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T00:25:49.237Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-30T04:58:07.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductosApiController.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Controllers\\ProductosApiController.cs",
-              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\Controllers\\ProductosApiController.cs",
-              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Controllers\\ProductosApiController.cs",
-              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\Controllers\\ProductosApiController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwIAAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T04:55:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfiguracionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Models\\ConfiguracionModel.cs",
+              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\Models\\ConfiguracionModel.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Models\\ConfiguracionModel.cs",
+              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\Models\\ConfiguracionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T00:23:55.828Z",
+              "WhenOpened": "2025-04-30T04:48:43.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuracion.json",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\data\\Configuracion.json",
+              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\wwwroot\\data\\Configuracion.json",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\data\\Configuracion.json",
+              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\wwwroot\\data\\Configuracion.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T04:48:29.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfiguracionService.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Service\\ConfiguracionService.cs",
+              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\Service\\ConfiguracionService.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Service\\ConfiguracionService.cs",
+              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\Service\\ConfiguracionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:41:09.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T04:44:50.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUD_Evaluacion_Mensual_Abril\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUD_Evaluacion_Mensual_Abril\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:43:01.864Z",
               "EditorCaption": ""
             }
           ]

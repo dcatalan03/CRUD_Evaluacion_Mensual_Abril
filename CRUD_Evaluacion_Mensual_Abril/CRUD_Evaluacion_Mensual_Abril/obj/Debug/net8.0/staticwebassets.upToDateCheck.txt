@@ -1,6 +1,7 @@
 wwwroot\css\ApiRest.css
 wwwroot\css\estilos-morados.css
 wwwroot\css\site.css
+wwwroot\data\Configuracion.json
 wwwroot\favicon.ico
 wwwroot\js\alertas.js
 wwwroot\js\site.js

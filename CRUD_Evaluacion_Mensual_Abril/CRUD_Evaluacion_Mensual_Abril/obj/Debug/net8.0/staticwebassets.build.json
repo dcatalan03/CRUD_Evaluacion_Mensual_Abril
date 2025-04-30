@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F6gSCXPe4NKlHA/iGkw5eFZLJ+4rz4dRe4ZisFU9g+s=",
+  "Hash": "QJdzWfioPSwL9x9HLTTm4X9kG/vgkzQaLeYi7GvCogo=",
   "Source": "CRUD_Evaluacion_Mensual_Abril",
   "BasePath": "_content/CRUD_Evaluacion_Mensual_Abril",
   "Mode": "Default",
@@ -115,11 +115,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6adgmru6p6",
-      "Integrity": "wtYmOc2U+MiPqOWMjY4Htj5GfEIgAvudMuhPRKlq3Uo=",
+      "Fingerprint": "zoak0z67ox",
+      "Integrity": "I/+cbwp4jfA7On+kk0D7odZQ6yJEtXrz5wW9Xuik+Dk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\data\\Configuracion.json",
+      "SourceId": "CRUD_Evaluacion_Mensual_Abril",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\",
+      "BasePath": "_content/CRUD_Evaluacion_Mensual_Abril",
+      "RelativePath": "data/Configuracion#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ubghgs369h",
+      "Integrity": "6hzgybaBN6gDCvRdYrhiHw8ZfgGllfinqVXL7wbYKmY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data\\Configuracion.json"
     },
     {
       "Identity": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\favicon.ico",
@@ -1406,7 +1427,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 18:23:06 GMT"
+          "Value": "Wed, 30 Apr 2025 03:40:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1451,7 +1472,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 18:23:06 GMT"
+          "Value": "Wed, 30 Apr 2025 03:40:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1496,7 +1517,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 18:23:06 GMT"
+          "Value": "Wed, 30 Apr 2025 03:40:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1533,7 +1554,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 18:23:06 GMT"
+          "Value": "Wed, 30 Apr 2025 03:40:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1570,7 +1591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 21:42:20 GMT"
+          "Value": "Wed, 30 Apr 2025 04:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1607,7 +1628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 21:42:20 GMT"
+          "Value": "Wed, 30 Apr 2025 04:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1712,51 +1733,6 @@
       ]
     },
     {
-      "Route": "css/site.6adgmru6p6.css",
-      "AssetFile": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "930"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wtYmOc2U+MiPqOWMjY4Htj5GfEIgAvudMuhPRKlq3Uo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 17:07:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6adgmru6p6"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wtYmOc2U+MiPqOWMjY4Htj5GfEIgAvudMuhPRKlq3Uo="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1767,7 +1743,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "930"
+          "Value": "1099"
         },
         {
           "Name": "Content-Type",
@@ -1775,11 +1751,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wtYmOc2U+MiPqOWMjY4Htj5GfEIgAvudMuhPRKlq3Uo=\""
+          "Value": "\"I/+cbwp4jfA7On+kk0D7odZQ6yJEtXrz5wW9Xuik+Dk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 17:07:38 GMT"
+          "Value": "Wed, 30 Apr 2025 04:58:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1789,7 +1765,134 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wtYmOc2U+MiPqOWMjY4Htj5GfEIgAvudMuhPRKlq3Uo="
+          "Value": "sha256-I/+cbwp4jfA7On+kk0D7odZQ6yJEtXrz5wW9Xuik+Dk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.zoak0z67ox.css",
+      "AssetFile": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1099"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I/+cbwp4jfA7On+kk0D7odZQ6yJEtXrz5wW9Xuik+Dk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 04:58:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zoak0z67ox"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I/+cbwp4jfA7On+kk0D7odZQ6yJEtXrz5wW9Xuik+Dk="
+        }
+      ]
+    },
+    {
+      "Route": "data/Configuracion.json",
+      "AssetFile": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\data\\Configuracion.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hzgybaBN6gDCvRdYrhiHw8ZfgGllfinqVXL7wbYKmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 04:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hzgybaBN6gDCvRdYrhiHw8ZfgGllfinqVXL7wbYKmY="
+        }
+      ]
+    },
+    {
+      "Route": "data/Configuracion.ubghgs369h.json",
+      "AssetFile": "C:\\Users\\Diego\\Documents\\RepoDojo\\DojoNet\\Diego C\\CRUD_Evaluacion_Mensual_Abril\\CRUD_Evaluacion_Mensual_Abril\\wwwroot\\data\\Configuracion.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hzgybaBN6gDCvRdYrhiHw8ZfgGllfinqVXL7wbYKmY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 04:55:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ubghgs369h"
+        },
+        {
+          "Name": "label",
+          "Value": "data/Configuracion.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hzgybaBN6gDCvRdYrhiHw8ZfgGllfinqVXL7wbYKmY="
         }
       ]
     },
