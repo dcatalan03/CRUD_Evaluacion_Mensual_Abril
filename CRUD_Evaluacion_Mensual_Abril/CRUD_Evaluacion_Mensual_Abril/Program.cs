@@ -50,4 +50,6 @@ app.MapControllerRoute(
     name: "login",
     pattern: "{controller=Login}/{action=Login}/{id?}");
 
+app.Urls.Add("http://0.0.0.0:" + Environment.GetEnvironmentVariable("PORT") ?? "10000");
+
 app.Run();
